@@ -29,3 +29,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-kamboj&show_icons=true&locale=en" alt="utkarsh-kamboj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-kamboj&" alt="utkarsh-kamboj" /></p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
