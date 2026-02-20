@@ -29,3 +29,41 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-kamboj&show_icons=true&locale=en" alt="utkarsh-kamboj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-kamboj&" alt="utkarsh-kamboj" /></p>
+
+Welcome to my GitHub profile! 🚀 Here you'll find my contributions, streaks, and coding stats.
+
+---
+
+## 📊 GitHub
+
+### 🟢 Utkarsh's Contribution Graph
+![Utkarsh's GitHub Contribution Graph](https://ghchart.rshah.org/USERNAME)
+
+*(Replace `USERNAME` with your GitHub username)*
+
+---
+
+### 🔥 Utkarsh's Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
+
+*(Replace `USERNAME` with your GitHub username)*
+
+---
+
+## 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=dark)
+
+*(Replace `USERNAME` with your LeetCode username)*
+
+---
+
+## 🛠️ Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [Twitter](https://twitter.com/YOUR-TWITTER/)
+- [LeetCode](https://leetcode.com/USERNAME/)
