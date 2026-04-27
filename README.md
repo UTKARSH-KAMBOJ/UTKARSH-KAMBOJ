@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-kamboj&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-kamboj" /> </p>
 
-- 🔭  **WEB DEVELOPMENT ** (HTML,JAVASCRIPT,CSS)
+- 🔭  **WEB DEVELOPMENT ** (HTML,CSS)
 
-- 🌱  **CODING** (PYTHON,C LANGUAGE,C++,LINUX)
+- 🌱  **CODING** (PYTHON,C LANGUAGE,LINUX)
   <!-- Snake Game Repo View -->
 
 <div align="center">
